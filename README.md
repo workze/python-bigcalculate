@@ -9,9 +9,10 @@ The expression to compute must meet:
 - sample:  '1 + 2', '2 * 3 + 5'  
  
 # sample
+```python
 cal_input('1 + 1')   =>   2
 
 cal_input('1 * 2 * 3 + 4')   =>  10  
 
 cal_input('9999999999999999999 * 999999999999999999999 * 999999999999999999999')   =>  ?
-  
+```
